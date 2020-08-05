@@ -1,0 +1,6 @@
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/bin/Debug/Algorithm.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/bin/Debug/Algorithm.pdb
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/obj/Debug/Algorithm.csprojAssemblyReference.cache
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/obj/Debug/Algorithm.csproj.CoreCompileInputs.cache
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/obj/Debug/Algorithm.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm/obj/Debug/Algorithm.pdb

@@ -1,0 +1,14 @@
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/Algorithm.Tests.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/Algorithm.Tests.pdb
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/Algorithm.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/xunit.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/xunit.runner.msbuild.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/xunit.runner.tdnet.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/xunit.runner.utility.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/Algorithm.pdb
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/bin/Debug/xunit.xml
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/obj/Debug/Algorithm.Tests.csprojAssemblyReference.cache
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/obj/Debug/Algorithm.Tests.csproj.CoreCompileInputs.cache
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/obj/Debug/Algorithm.Tests.csproj.CopyComplete
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/obj/Debug/Algorithm.Tests.dll
+/Users/martyna/RiderProjects/CompositionKata/CompositionKata/Algorithm.Tests/obj/Debug/Algorithm.Tests.pdb
